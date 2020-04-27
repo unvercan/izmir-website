@@ -1,0 +1,28 @@
+#mainTitle {
+    color: #000066;
+}
+
+#section1, #section2, #section3, #section4, #section5 {
+    color: #33CC33;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+}
+
+#sectionTitle {
+    color: #FF6600;
+}
+
+#sectionContent {
+    color: #CC0000;
+}
+
+body {
+    background-color: #CCFFFF;
+}

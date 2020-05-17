@@ -1,2 +1,2 @@
 # izmir-website
-Izmir Website
+- Website about Izmir for touristic purpose.
